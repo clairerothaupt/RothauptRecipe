@@ -148,5 +148,8 @@ figcaption {
     bottom:40px;
   }
 .social {
-    padding:900px;
+    padding-left:700px;
+}
+footer {
+    background-color:#F2F2F2;
 }
